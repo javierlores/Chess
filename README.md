@@ -3,6 +3,8 @@
 Developer: Javier Lores
 
 This program is implemented only as an application.
+This is an Eclipse project.
+To run, import into eclipse and then run.
 
 Special Game Features:
     A Save and load game feature
